@@ -19,6 +19,9 @@ To write a program to predict the price of the house and number of occupants in 
 
 ## Program:
 ```
+Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
+Developed by: P Janardhan
+RegisterNumber:  212224040128
 import numpy as np
 
 from sklearn.datasets import fetch_california_housing
